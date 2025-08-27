@@ -30,6 +30,7 @@ The app was built **gradually after encountering several deployment errors**
 - **Google Sheets API** (`streamlit_gsheets`, `gspread`, `oauth2client`) – for storing user feedback  
 
 ---
+
 ## 🖥️ How It Works
 -**User provides**
 -**Gender (Male/Female)**
