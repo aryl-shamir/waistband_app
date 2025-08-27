@@ -57,3 +57,5 @@ The app was built **gradually after encountering several deployment errors**
 ## 👤 Author
 - Aryl Shamir
 - 🎓 Petroleum Engineering background, Data scientist.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bossou-aryl-7a89782b6/) | [GitHub](https://github.com/aryl-shamir)
+
