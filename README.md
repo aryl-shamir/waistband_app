@@ -30,23 +30,6 @@ The app was built **gradually after encountering several deployment errors**
 - **Google Sheets API** (`streamlit_gsheets`, `gspread`, `oauth2client`) – for storing user feedback  
 
 ---
-
-## 📂 Project Structure  
-```bash
-.
-├── notebooks/
-│   └── analysis.ipynb
-│   └── model_developemenr.ipynb
-│   └── models/
-│       └── my_waistband_model.pkl   # Trained Linear Regression model
-├── static/
-│   ├── waist_image.jpg              # App illustration
-│   └── giphy-2.gif                  # Feedback GIF
-├── streamlit_app.py                 # Main application script
-├── requirements.txt                 # Dependencies
-└── README.md                        # Project documentation
-
----
 🖥️ How It Works
 User provides:
 
