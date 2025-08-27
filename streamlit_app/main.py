@@ -99,8 +99,6 @@ def main():
         return conn, existing_data
     conn, existing_data = load_data()
     
-    st.dataframe(existing_data)
-    
     # setting a session_state for the user_informations, so as to store values within thesame session 
     
     if "user_infos" not in st.session_state:
