@@ -47,14 +47,16 @@ The app was built **gradually after encountering several deployment errors**
 └── README.md                        # Project documentation
 
 ---
+🖥️ How It Works
+User provides:
 
+Gender (Male/Female)
 
-## 🖥️ How It Works
--User provides:
--Gender (Male/Female)
--Age (18–67)
--Height (cm)
--Weight (kg)
+Age (18–67)
+
+Height (cm)
+
+Weight (kg)
 
 Model predicts waistband and hip size in cm & inches.
 
@@ -62,5 +64,6 @@ User confirms accuracy:
 
 ✅ Yes → Thank-you screen with animation.
 
-❌ No → User submits correct values → Stored in Google Sheets
+❌ No → User submits correct values → Stored in Google Sheets.
+
 
