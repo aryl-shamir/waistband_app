@@ -82,11 +82,11 @@ def waist_and_hip_size_pred(input_data:np.array) -> float:
 # Defining the entry point: The starting point of the code that starts the primary task of the script. 
 
 def main():
-    st.title('Waistband Application')
+    st.title('Waistband & Hip size App')
 
     # Uploading the image from the static directory to the app using the os module and, getcwd.
     st.image(os.path.join(os.getcwd(), 'static', 'waist_image.jpg' ))
-    st.markdown('**We would like to estimate your hip size and waistband size based on your sex, age, height and weight**')
+    st.markdown('**We would like to estimate your hip size and waistband size based on your gender, age, height and weight**')
     
     # Establishing a connection between the streamlit app and the google sheet. 
     def load_data():
