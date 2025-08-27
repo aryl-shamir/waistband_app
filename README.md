@@ -30,18 +30,13 @@ The app was built **gradually after encountering several deployment errors**
 - **Google Sheets API** (`streamlit_gsheets`, `gspread`, `oauth2client`) – for storing user feedback  
 
 ---
-🖥️ How It Works
-User provides:
-
-Gender (Male/Female)
-
-Age (18–67)
-
-Height (cm)
-
-Weight (kg)
-
-Model predicts waistband and hip size in cm & inches.
+## 🖥️ How It Works
+-**User provides**:
+-**Gender (Male/Female)**
+-**Age (18–67)**
+-**Height (cm)**
+-**Weight (kg)**
+-**Model predicts waistband and hip size in cm & inches.**
 
 User confirms accuracy:
 
