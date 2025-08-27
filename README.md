@@ -47,9 +47,13 @@ The app was built **gradually after encountering several deployment errors**
    - ✅ **Yes** → Thank-you screen with animation.  
    - ❌ **No** → User submits correct values → Stored in **Google Sheets**.  
 
-
 ---
 
+## 📈 Future Improvements
+- **Train the model on a larger dataset.**
+
+---
+.
 ## 👤 Author
--Aryl Shamir
-🎓 Petroleum Engineering background, Data scientist.
+- Aryl Shamir
+- 🎓 Petroleum Engineering background, Data scientist.
