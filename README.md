@@ -31,7 +31,7 @@ The app was built **gradually after encountering several deployment errors**
 
 ---
 ## 🖥️ How It Works
--**User provides**:
+-**User provides**
 -**Gender (Male/Female)**
 -**Age (18–67)**
 -**Height (cm)**
