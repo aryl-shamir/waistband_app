@@ -42,4 +42,8 @@ The app was built **gradually after encountering several deployment errors**
 -**✅ Yes → Thank-you screen with animation.**
 -**❌ No → User submits correct values → Stored in Google Sheets.**
 
+---
 
+## 👤 Author
+-Aryl Shamir
+🎓 Petroleum Engineering background, Data scientist.
