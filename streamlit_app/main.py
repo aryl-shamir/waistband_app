@@ -95,7 +95,7 @@ def main():
     # fetch existing data 
         existing_data = conn.read(worksheet="sheet1", usecols=list(range(6)), ttl=500)
         #explicitly define the desired column order to ensure the operations preserve the original order.
-        existing_data.columns = ["gender", "age", "height (m)", "weight (cm)","hipsize (cm)", "waistband (cm)"]
+        existing_data.columns = ["gender", "age", "height (m)", "weight (kg)","hipsize (cm)", "waistband (cm)"]
         return conn, existing_data
     conn, existing_data = load_data()
     
